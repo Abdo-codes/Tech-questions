@@ -21,6 +21,8 @@
 - [Computer Science 101: Master the Theory Behind Programming - Udemy](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)
 - [For those who want to learn CS but with no to little coding - Intro to CS for business professions - Harvard](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
 - [Fundamentals of computing](https://www.coursera.org/specializations/computer-fundamentals)
+
+
 كل الكورسات دي تقريباً متشابهة في المحتوى، لكن الفرق هي طريقة الشرح والأهداف من الكورس. 
 
 
