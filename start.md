@@ -14,11 +14,11 @@
 الكورسات المتاحة في المنطقة دي كتير، ومن جامعات كبيرة وعالمية، هنسيب هنا جزء منها وبالتأكيد دايماً فيه مصادر أكتر لو دورت. 
 
 
-(CS50's Introduction to Computer Science-Harvard)[https://www.edx.org/course/introduction-computer-science-harvardx-cs50x]
-(Introduction to Computer Science and Programming Specialization-London Uni)[https://www.coursera.org/specializations/introduction-computer-science-programming]
-(Introduction to Computer Science and Programming Using Python - MIT)(https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-(CS 1.0: Introduction To Programming-makeschool)[https://makeschool.org/mediabook/course/cs-1-0/]
-(Computer Science 101: Master the Theory Behind Programming - Udemy)[https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/]
+[CS50's Introduction to Computer Science-Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[Introduction to Computer Science and Programming Specialization-London Uni](https://www.coursera.org/specializations/introduction-computer-science-programming)
+[Introduction to Computer Science and Programming Using Python - MIT](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+[CS 1.0: Introduction To Programming-makeschool](https://makeschool.org/mediabook/course/cs-1-0/)
+[Computer Science 101: Master the Theory Behind Programming - Udemy](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/)
 
 كل الكورسات دي تقريباً متشابهة في المحتوى، لكن الفرق هي طريقة الشرح والأهداف من الكورس. 
 
