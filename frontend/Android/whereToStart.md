@@ -14,4 +14,4 @@
 > [Android Nano Degree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) 
 
 ---
-  <div dir="rtl">
+  </div>
